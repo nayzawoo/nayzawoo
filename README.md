@@ -1,3 +1,4 @@
+[![Nay Zaw Oo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayzawoo&show_icons=true&theme=radical)](https://github.com/nayzawoo/github-readme-stats)
 
 <!---
 <p align="center">
