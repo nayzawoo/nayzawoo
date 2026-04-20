@@ -1,4 +1,4 @@
-# Hi there, I'm Nay Za Woo! 👋
+# Hi there, I'm Nay Zaw Oo! 👋
 
 Welcome to my GitHub profile. Here is a glimpse of my coding activity and statistics.
 
