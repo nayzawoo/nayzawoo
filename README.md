@@ -1,32 +1,20 @@
-# Hi there, I'm Nay Zaw Oo! 👋
+# Hi there, I'm Nay Za Woo! 👋
 
-Welcome to my GitHub profile. Here is a glimpse of my coding activity and statistics.
-
----
-
-### 📊 Github Statistics
-
-<div align="center">
-  <a href="https://github.com/nayzawoo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayzawoo&theme=tokyonight&hide_border=true" alt="Nay Za Woo's Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/nayzawoo">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayzawoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Nay Za Woo's Stats" />
-  </a>
-  <a href="https://github.com/nayzawoo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayzawoo&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Nay Za Woo's Top Languages" />
-  </a>
-</div>
+I am a **Software Developer** dedicated to crafting robust applications. My focus spans from backend systems to mobile apps and IoT solutions.
 
 ---
 
-### 📉 Contribution Graph
+### 👨‍💻 About Me
+
+* **Backend:** Enthusiastic about building powerful APIs and applications with **Laravel**.
+* **Mobile:** Passionate about creating elegant cross-platform apps using **Flutter**.
+* **IoT/Hardware:** Love tinkering with electronics, automation, and **ESP32** microcontrollers.
+* **Languages:** Deep diving into PHP, Dart, C++, and TypeScript.
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayzawoo&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Nay Za Woo's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayzawoo&theme=react&hide_border=true&area=true" alt="nayzawoo's contribution graph" width="100%" />
 </div>
