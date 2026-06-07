@@ -1,4 +1,4 @@
-# Hi there, I'm Nay Za Woo! 👋
+# Hi there, I'm Nay Zaw Oo! 👋
 
 I am a **Software Developer** dedicated to crafting robust applications. My focus spans from backend systems to mobile apps and IoT solutions.
 
