@@ -70,32 +70,32 @@ $ tech-stack --list --detailed
 ```bash
 $ skills --expertise --category all
 
-┌───────────────────────────────────────────────────────────────────────┐
-│ BACKEND DEVELOPMENT                           [████████████] 90%      │
-├───────────────────────────────────────────────────────────────────────┤
-│ ✓ Laravel Framework Mastery                                           │
-│ ✓ RESTful API Design & Development                                    │
-│ ✓ Database Design & Optimization                                      │
-│ ✓ Authentication & Authorization Systems                              │
-└───────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│ BACKEND DEVELOPMENT                          [████████████] 90%      │
+├──────────────────────────────────────────────────────────────────────┤
+│ ✓ Laravel Framework Mastery                                          │
+│ ✓ RESTful API Design & Development                                   │
+│ ✓ Database Design & Optimization                                     │
+│ ✓ Authentication & Authorization Systems                             │
+└──────────────────────────────────────────────────────────────────────┘
 
-┌───────────────────────────────────────────────────────────────────────┐
-│ MOBILE DEVELOPMENT                            [███████████ ] 85%      │
-├───────────────────────────────────────────────────────────────────────┤
-│ ✓ Flutter Cross-Platform Applications                                 │
-│ ✓ Responsive UI/UX Design Implementation                              │
-│ ✓ State Management & Architecture Patterns                            │
-│ ✓ Native Platform Integration                                         │
-└───────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│ MOBILE DEVELOPMENT                           [███████████ ] 85%      │
+├──────────────────────────────────────────────────────────────────────┤
+│ ✓ Flutter Cross-Platform Applications                                │
+│ ✓ Responsive UI/UX Design Implementation                             │
+│ ✓ State Management & Architecture Patterns                           │
+│ ✓ Native Platform Integration                                        │
+└──────────────────────────────────────────────────────────────────────┘
 
-┌───────────────────────────────────────────────────────────────────────┐
-│ IoT & EMBEDDED SYSTEMS                        [██████████  ] 80%      │
-├───────────────────────────────────────────────────────────────────────┤
-│ ✓ ESP32 Development & Programming                                     │
-│ ✓ Sensor Integration & Data Collection                                │
-│ ✓ Real-time Communication Protocols                                   │
-│ ✓ Hardware-Software Integration                                       │
-└───────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│ IoT & EMBEDDED SYSTEMS                       [██████████  ] 80%      │
+├──────────────────────────────────────────────────────────────────────┤
+│ ✓ ESP32 Development & Programming                                    │
+│ ✓ Sensor Integration & Data Collection                               │
+│ ✓ Real-time Communication Protocols                                  │
+│ ✓ Hardware-Software Integration                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -119,26 +119,26 @@ https://github-readme-activity-graph.vercel.app/graph?username=nayzawoo&theme=no
 ```bash
 $ cat core-values.txt
 
-┌────────────────────────────────────────────────────────────────────┐
-│                   CORE VALUES & PHILOSOPHY                        │
-├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
-│  ⭐ EXCELLENCE                                                      │
-│     └─ Striving for quality in every line of code                 │
-│                                                                    │
-│  💡 INNOVATION                                                      │
-│     └─ Exploring new technologies and approaches                  │
-│                                                                    │
-│  🤝 COLLABORATION                                                   │
-│     └─ Contributing to and learning from the community            │
-│                                                                    │
-│  🎯 SIMPLICITY                                                      │
-│     └─ Making complex systems understandable and maintainable     │
-│                                                                    │
-│  🔒 RELIABILITY                                                     │
-│     └─ Building systems you can trust in production               │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                   CORE VALUES & PHILOSOPHY                          │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ⭐ EXCELLENCE                                                        │
+│     └─ Striving for quality in every line of code                   │
+│                                                                      │
+│  💡 INNOVATION                                                        │
+│     └─ Exploring new technologies and approaches                    │
+│                                                                      │
+│  🤝 COLLABORATION                                                     │
+│     └─ Contributing to and learning from the community              │
+│                                                                      │
+│  🎯 SIMPLICITY                                                        │
+│     └─ Making complex systems understandable and maintainable       │
+│                                                                      │
+│  🔒 RELIABILITY                                                       │
+│     └─ Building systems you can trust in production                 │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -148,20 +148,20 @@ $ cat core-values.txt
 ```bash
 $ connect --socials --platform github
 
-╔══════════════════════════════════════════════════════════════════════╗
-║                  LET'S COLLABORATE & CONNECT                         ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  I'm always interested in:                                          ║
-║                                                                      ║
-║  💡 Discussing innovative ideas and technical solutions             ║
-║  🤝 Collaborating on interesting projects                           ║
-║  📚 Sharing knowledge and learning together                         ║
-║  🌍 Contributing to open-source initiatives                         ║
-║                                                                      ║
-║  ➜ Reach out: https://github.com/nayzawoo                           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════╗
+║                  LET'S COLLABORATE & CONNECT                           ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  I'm always interested in:                                            ║
+║                                                                        ║
+║  💡 Discussing innovative ideas and technical solutions               ║
+║  🤝 Collaborating on interesting projects                             ║
+║  📚 Sharing knowledge and learning together                           ║
+║  🌍 Contributing to open-source initiatives                           ║
+║                                                                        ║
+║  ➜ Reach out: https://github.com/nayzawoo                             ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -177,9 +177,9 @@ $ init --status
 ✓ All modules loaded
 ✓ Ready to build amazing things
 
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
   ⭐ Always learning • Always building • Always improving
-══════════════════════════════════════════════════════════════════════
+════════════════════════════════════════════════════════════════════════
 
 Last compiled: June 2026 | Made with ❤️ by @nayzawoo
 ```
