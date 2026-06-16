@@ -1,185 +1,135 @@
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║                  🚀 NAY ZAW OO - FULL-STACK DEVELOPER                   ║
-║                                                                          ║
-║            IoT Enthusiast | Clean Code Advocate | Tech Pioneer           ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+# 🚀 Hey there! I'm Nay Zaw Oo
+
+<div align="center">
+  
+  **Full-Stack Developer | IoT Enthusiast | Clean Code Advocate**
+  
+  *Building elegant, scalable solutions across web, mobile, and embedded systems*
+
+  [![GitHub](https://img.shields.io/badge/GitHub-nayzawoo-181717?style=for-the-badge&logo=github)](https://github.com/nayzawoo)
+  [![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-blue?style=flat-square)](https://github.com/nayzawoo)
+  
+</div>
 
 ---
 
-## 💻 `$ whoami`
+## 🎯 About Me
 
-```bash
-$ whoami
-=> Full-Stack Developer specializing in elegant, scalable solutions
-=> Expertise: Backend APIs, Mobile Apps, IoT & Embedded Systems
-=> Philosophy: Clean code is respect for future developers
-=> Status: Always learning, always building 🔨
+I'm a passionate full-stack developer with expertise in designing and building robust applications across multiple platforms. I thrive on turning complex problems into elegant, maintainable solutions.
 
-$ cat interests.txt
-┌─ Building production-ready applications across web, mobile & hardware
-├─ Solving complex problems with elegant solutions
-├─ Contributing to open-source communities
-├─ Exploring emerging technologies
-└─ Mentoring & sharing knowledge
-```
+**What I Do:**
+- 🔧 **Backend Architecture** — Building scalable, production-ready APIs with Laravel and PHP
+- 📱 **Mobile Development** — Creating beautiful, responsive apps with Flutter and Dart
+- 🤖 **IoT & Embedded Systems** — Designing smart solutions with ESP32 and C++
+- 💻 **Full-Stack Integration** — Seamlessly connecting frontend, backend, and hardware
 
----
-
-## 🛠️ `$ tech-stack --list`
-
-```bash
-$ tech-stack --list --detailed
-
-╔════════════════════════════════════════════════════════════════════════╗
-║                      TECHNICAL ARSENAL                               ║
-╚════════════════════════════════════════════════════════════════════════╝
-
-🔙 BACKEND
-   └─ Laravel • PHP • RESTful APIs
-   └─ PostgreSQL • MySQL • Database Design
-   └─ Authentication & Authorization
-
-📱 MOBILE  
-   └─ Flutter • Dart
-   └─ Cross-platform Development
-   └─ State Management & Architecture
-
-🤖 IoT & EMBEDDED
-   └─ ESP32 • C++ • Arduino
-   └─ Microcontrollers • Sensor Integration
-   └─ Real-time Communication Protocols
-
-🌐 FRONTEND
-   └─ TypeScript • JavaScript • HTML5 • CSS3
-   └─ Responsive UI/UX Design
-
-⚙️ DEVOPS & TOOLS
-   └─ Git • Docker • GitHub Actions
-   └─ VS Code • CI/CD Pipelines
-   └─ REST APIs • WebSockets • JSON
-```
+**What I Believe:**
+- Clean, readable code is a form of respect for future developers
+- User experience should drive technical decisions
+- Continuous learning is non-negotiable in tech
+- Open-source community collaboration makes us all better
 
 ---
 
-## 🎯 `$ skills --expertise`
+## 💼 Tech Stack
 
-```bash
-$ skills --expertise --category all
+<div align="center">
 
-┌──────────────────────────────────────────────────────────────────────┐
-│ BACKEND DEVELOPMENT                          [████████████] 90%      │
-├──────────────────────────────────────────────────────────────────────┤
-│ ✓ Laravel Framework Mastery                                          │
-│ ✓ RESTful API Design & Development                                   │
-│ ✓ Database Design & Optimization                                     │
-│ ✓ Authentication & Authorization Systems                             │
-└──────────────────────────────────────────────────────────────────────┘
+| **Category** | **Technologies** |
+|:---:|:---|
+| 🔙 **Backend** | Laravel • PHP • RESTful APIs • PostgreSQL • MySQL |
+| 📱 **Mobile** | Flutter • Dart • Cross-platform Development |
+| 🤖 **IoT/Embedded** | ESP32 • C++ • Arduino • Microcontrollers |
+| 🌐 **Frontend** | TypeScript • JavaScript • HTML5 • CSS3 |
+| 🛠️ **Tools & DevOps** | Git • Docker • GitHub Actions • VS Code |
+| 📦 **Other** | REST APIs • WebSockets • JSON • XML |
 
-┌──────────────────────────────────────────────────────────────────────┐
-│ MOBILE DEVELOPMENT                           [███████████ ] 85%      │
-├──────────────────────────────────────────────────────────────────────┤
-│ ✓ Flutter Cross-Platform Applications                                │
-│ ✓ Responsive UI/UX Design Implementation                             │
-│ ✓ State Management & Architecture Patterns                           │
-│ ✓ Native Platform Integration                                        │
-└──────────────────────────────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────────────────────────────┐
-│ IoT & EMBEDDED SYSTEMS                       [██████████  ] 80%      │
-├──────────────────────────────────────────────────────────────────────┤
-│ ✓ ESP32 Development & Programming                                    │
-│ ✓ Sensor Integration & Data Collection                               │
-│ ✓ Real-time Communication Protocols                                  │
-│ ✓ Hardware-Software Integration                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+</div>
 
 ---
 
-## 📊 `$ github status`
+## 📈 GitHub Statistics
 
-```bash
-$ git log --oneline --stat --author="nayzawoo" | head -20
+<div align="center">
+  
+  [![nayzawoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayzawoo&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff)](https://github.com/nayzawoo)
 
-GitHub Stats: 
-https://github-readme-stats.vercel.app/api?username=nayzawoo&show_icons=true&theme=nord&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff
-
-Activity Graph: 
-https://github-readme-activity-graph.vercel.app/graph?username=nayzawoo&theme=nord&hide_border=true&bg_color=0d1117&line=79c0ff&point=58a6ff&area_color=21262d&title_color=58a6ff
-```
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nayzawoo&theme=nord&hide_border=true&bg_color=0d1117&line=79c0ff&point=58a6ff&area_color=21262d&title_color=58a6ff)](https://github.com/nayzawoo)
+  
+</div>
 
 ---
 
-## 🏗️ `$ cat core-values.txt`
+## 🏆 Expertise & Specializations
 
-```bash
-$ cat core-values.txt
-
-┌──────────────────────────────────────────────────────────────────────┐
-│                   CORE VALUES & PHILOSOPHY                          │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ⭐ EXCELLENCE                                                        │
-│     └─ Striving for quality in every line of code                   │
-│                                                                      │
-│  💡 INNOVATION                                                        │
-│     └─ Exploring new technologies and approaches                    │
-│                                                                      │
-│  🤝 COLLABORATION                                                     │
-│     └─ Contributing to and learning from the community              │
-│                                                                      │
-│  🎯 SIMPLICITY                                                        │
-│     └─ Making complex systems understandable and maintainable       │
-│                                                                      │
-│  🔒 RELIABILITY                                                       │
-│     └─ Building systems you can trust in production                 │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🔗 `$ connect --socials`
-
-```bash
-$ connect --socials --platform github
-
-╔════════════════════════════════════════════════════════════════════════╗
-║                  LET'S COLLABORATE & CONNECT                           ║
-╠════════════════════════════════════════════════════════════════════════╣
-║                                                                        ║
-║  I'm always interested in:                                            ║
-║                                                                        ║
-║  💡 Discussing innovative ideas and technical solutions               ║
-║  🤝 Collaborating on interesting projects                             ║
-║  📚 Sharing knowledge and learning together                           ║
-║  🌍 Contributing to open-source initiatives                           ║
-║                                                                        ║
-║  ➜ Reach out: https://github.com/nayzawoo                             ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🔙 Backend Development</h3>
+      <ul>
+        <li>✓ Laravel Framework Mastery</li>
+        <li>✓ RESTful API Design & Development</li>
+        <li>✓ Database Design & Optimization</li>
+        <li>✓ Authentication & Authorization</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>📱 Mobile Development</h3>
+      <ul>
+        <li>✓ Flutter Cross-Platform Apps</li>
+        <li>✓ Responsive UI/UX Design</li>
+        <li>✓ State Management & Architecture</li>
+        <li>✓ Native Platform Integration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>🤖 IoT & Embedded Systems</h3>
+      <ul>
+        <li>✓ ESP32 Development & Programming</li>
+        <li>✓ Sensor Integration & Data Collection</li>
+        <li>✓ Real-time Communication Protocols</li>
+        <li>✓ Hardware-Software Integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 `$ init --status`
+## 🌟 Core Values
 
-```bash
-$ init --status
+| Value | Description |
+|:---:|:---|
+| **✨ Excellence** | Striving for quality in every line of code |
+| **💡 Innovation** | Exploring new technologies and approaches |
+| **🤝 Collaboration** | Contributing to and learning from the community |
+| **🎯 Simplicity** | Making complex systems understandable |
+| **🔒 Reliability** | Building systems you can trust |
 
-[████████████████████████████] 100%
+---
 
-✓ System initialized
-✓ All modules loaded
-✓ Ready to build amazing things
+## 📫 Let's Connect
 
-════════════════════════════════════════════════════════════════════════
-  ⭐ Always learning • Always building • Always improving
-════════════════════════════════════════════════════════════════════════
+<div align="center">
 
-Last compiled: June 2026 | Made with ❤️ by @nayzawoo
-```
+I'm always interested in:
+- 💡 Discussing innovative ideas and technical solutions
+- 🤝 Collaborating on interesting projects
+- 📚 Sharing knowledge and learning together
+- 🌍 Contributing to open-source initiatives
+
+**Reach out on GitHub:** [@nayzawoo](https://github.com/nayzawoo)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ⭐ **Always learning, always building, always improving!** ✨
+  
+  <sub>Last updated: June 2026 • Made with ❤️</sub>
+  
+</div>
